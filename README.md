@@ -286,7 +286,7 @@ Built and documented an end-to-end Human Development Index prediction applicatio
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Mithun9661/Mithun9661/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Mithun9661/Mithun9661/gh-pages/github-contribution-grid-snake-dark.svg)
 
 </div>
 
