@@ -250,11 +250,11 @@ Built and documented an end-to-end Human Development Index prediction applicatio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithun9661&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed)
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mithun9661&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mithun9661&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8FA3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun9661&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=10)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mithun9661&theme=github_dark)
 
 </div>
 
@@ -264,7 +264,9 @@ Built and documented an end-to-end Human Development Index prediction applicatio
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mithun9661&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)
+![CodeVita](https://img.shields.io/badge/TCS%20CodeVita-M3%20Rank%203951-6D28D9?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/Hack4Dev-Srishti%20DSRH%202025-4F46E5?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack%20%7C%20Backend-7C3AED?style=for-the-badge)
 
 </div>
 
@@ -274,7 +276,7 @@ Built and documented an end-to-end Human Development Index prediction applicatio
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mithun9661&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=a78bfa&area=true&hide_border=true)
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mithun9661&theme=github_dark)
 
 </div>
 
